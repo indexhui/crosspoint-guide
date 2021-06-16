@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Crosspoint 教學指南 Blog</title>
+        <link>https://indexhui.github.io/blog</link>
+        <description>Crosspoint 教學指南 Blog</description>
+        <lastBuildDate>Sun, 30 May 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[新功能上線]]></title>
+            <link>https://indexhui.github.io/crosspoint-guide/blog/new_features</link>
+            <guid>new_features</guid>
+            <pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[🎉 新功能上線 🎉]]></description>
+        </item>
+    </channel>
+</rss>

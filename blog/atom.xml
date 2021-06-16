@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://indexhui.github.io/blog</id>
+    <title>Crosspoint 教學指南 Blog</title>
+    <updated>2021-05-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://indexhui.github.io/blog"/>
+    <subtitle>Crosspoint 教學指南 Blog</subtitle>
+    <icon>https://indexhui.github.io/./img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[新功能上線]]></title>
+        <id>new_features</id>
+        <link href="https://indexhui.github.io/crosspoint-guide/blog/new_features"/>
+        <updated>2021-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🎉 新功能上線 🎉]]></summary>
+    </entry>
+</feed>
